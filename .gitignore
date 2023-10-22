@@ -1,4 +1,5 @@
 node_modules
 temp
-backend/db
+src/backend/db
 dist
+src/frontend/assets/portrait
