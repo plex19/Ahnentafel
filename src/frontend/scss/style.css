@@ -1,0 +1,17 @@
+@import "../../../node_modules/bootstrap/dist/css/bootstrap.css";
+@import "../../../node_modules/@fortawesome/fontawesome-free/css/fontawesome.css";
+@import "../../../node_modules/@fortawesome/fontawesome-free/css/fontawesome.css";
+@import "../../../node_modules/@fortawesome/fontawesome-free/css/brands.css";
+@import "../../../node_modules/@fortawesome/fontawesome-free/css/solid.css";
+
+body { background-color: #6e6666; margin:0; padding:0; font-family:verdana,arial,helvetica,sans-serif; font-size:0.8em; }
+
+.navbar navbar-dark bg-dark{
+}
+
+ol.breadcrumb{
+    color: red;
+    position: absolute;
+    left: 20px;
+    top: 35px;
+}
